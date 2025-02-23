@@ -65,7 +65,7 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50"/>
   </a>
 </p>
-<br>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=soumyajit1010&show_icons=true&locale=en&layout=compact" alt="soumyajit1010" /></p>
 
